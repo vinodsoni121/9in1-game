@@ -1,0 +1,434 @@
+[21-Feb-2024 18:57:39 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 18:58:06 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 18:58:14 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 18:58:23 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:00:52 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:00:58 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:01:27 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:01:43 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:01:56 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:02:03 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:07:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[21-Feb-2024 20:14:09 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/notice.php on line 47
+[21-Feb-2024 20:14:14 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:14:25 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:22:47 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/notice.php on line 47
+[21-Feb-2024 20:40:57 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:40:59 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:43:59 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/updateotp.php on line 14
+[21-Feb-2024 20:43:59 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/updateotp.php on line 15
+[21-Feb-2024 20:54:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[22-Feb-2024 17:37:56 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[22-Feb-2024 17:38:39 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[22-Feb-2024 17:40:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[22-Feb-2024 18:48:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[22-Feb-2024 19:27:54 UTC] PHP Warning:  Division by zero in /home/biggujar/public_html/link.php on line 30
+[22-Feb-2024 19:30:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[22-Feb-2024 19:40:19 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[04-Mar-2024 17:34:43 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/tncpsl/lukky7club.in/updateotp.php on line 14
+[04-Mar-2024 17:34:43 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/tncpsl/lukky7club.in/updateotp.php on line 15
+[04-Mar-2024 17:41:15 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/tncpsl/lukky7club.in/updateotp.php on line 14
+[04-Mar-2024 17:41:15 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/tncpsl/lukky7club.in/updateotp.php on line 15
+[04-Mar-2024 17:41:30 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/tncpsl/lukky7club.in/updateotp.php on line 14
+[04-Mar-2024 17:41:30 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/tncpsl/lukky7club.in/updateotp.php on line 15
+[04-Mar-2024 17:41:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/lukky7club.in/updateotp.php:49) in /home/tncpsl/lukky7club.in/updateotp.php on line 50
+[22-Mar-2024 18:30:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/lukky7club.in/avipre1.php:22) in /home/tncpsl/lukky7club.in/avipre1.php on line 23
+[22-Mar-2024 18:32:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/lukky7club.in/avipre1.php:22) in /home/tncpsl/lukky7club.in/avipre1.php on line 23
+[22-Mar-2024 18:33:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/lukky7club.in/avipre1.php:22) in /home/tncpsl/lukky7club.in/avipre1.php on line 23
+[22-Mar-2024 18:34:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/lukky7club.in/avipre1.php:22) in /home/tncpsl/lukky7club.in/avipre1.php on line 23
+[29-Mar-2024 04:26:27 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/tncpsl/lukky7club.in/upi.php on line 47
+[29-Mar-2024 04:26:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/lukky7club.in/reward.php:28) in /home/tncpsl/lukky7club.in/reward.php on line 29
+[30-Mar-2024 07:47:13 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/tncpsl/lukky7club.in/upi.php on line 47
+[23-Apr-2024 08:06:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tncpsl/lukky7club.in/adminverify.php on line 50
+[23-Apr-2024 09:44:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tncpsl/lukky7club.in/adminverify.php on line 50
+[24-Apr-2024 10:41:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tncpsl/lukky7club.in/adminverify.php on line 50
+[24-Apr-2024 10:43:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "api" in /home/tncpsl/lukky7club.in/updateotp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tncpsl/lukky7club.in/updateotp.php on line 14
+[24-Apr-2024 10:44:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "api" in /home/tncpsl/lukky7club.in/updateotp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tncpsl/lukky7club.in/updateotp.php on line 14
+[24-Apr-2024 10:44:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "api" in /home/tncpsl/lukky7club.in/updateotp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tncpsl/lukky7club.in/updateotp.php on line 14
+[24-Apr-2024 10:44:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "api" in /home/tncpsl/lukky7club.in/updateotp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tncpsl/lukky7club.in/updateotp.php on line 14
+[25-Apr-2024 08:32:14 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tncpsl/lukky7club.in/adminverify.php on line 50
+[25-Apr-2024 13:19:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tncpsl/lukky7club.in/adminverify.php on line 50
+[25-Apr-2024 13:19:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "notice" in /home/tncpsl/lukky7club.in/notice.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/tncpsl/lukky7club.in/notice.php on line 47
+[25-Apr-2024 13:20:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "api" in /home/tncpsl/lukky7club.in/updateotp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tncpsl/lukky7club.in/updateotp.php on line 14
+[29-Apr-2024 11:22:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[29-Apr-2024 11:25:36 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/updateotp.php on line 14
+[29-Apr-2024 11:25:36 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/updateotp.php on line 15
+[29-Apr-2024 11:25:46 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/updateotp.php on line 14
+[29-Apr-2024 11:25:46 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/updateotp.php on line 15
+[29-Apr-2024 11:25:47 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/updateotp.php on line 14
+[29-Apr-2024 11:25:47 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/updateotp.php on line 15
+[29-Apr-2024 11:35:21 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/updateotp.php on line 14
+[29-Apr-2024 11:35:21 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/updateotp.php on line 15
+[29-Apr-2024 11:35:32 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[29-Apr-2024 11:35:55 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[29-Apr-2024 11:46:24 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[29-Apr-2024 16:12:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[30-Apr-2024 01:40:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[08-May-2024 12:01:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[11-May-2024 11:15:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[11-May-2024 11:17:37 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/notice.php on line 47
+[14-May-2024 17:16:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[14-May-2024 17:25:09 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[15-May-2024 05:41:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[15-May-2024 05:43:51 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[15-May-2024 06:40:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[15-May-2024 13:36:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[15-May-2024 13:37:41 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[15-May-2024 13:38:01 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[15-May-2024 13:49:07 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[16-May-2024 04:12:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[16-May-2024 04:16:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[16-May-2024 04:22:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[16-May-2024 15:46:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[16-May-2024 15:47:07 UTC] PHP Notice:  Undefined offset: 46 in /home/slipwini/public_html/adduser.php on line 34
+[16-May-2024 15:47:21 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[16-May-2024 15:47:28 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[16-May-2024 16:07:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[16-May-2024 16:07:26 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[16-May-2024 16:07:32 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[16-May-2024 16:36:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[16-May-2024 17:21:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[16-May-2024 17:25:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[16-May-2024 17:25:49 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[16-May-2024 17:35:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/slipwini/public_html/reward.php on line 23
+[16-May-2024 17:38:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[16-May-2024 17:47:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[16-May-2024 17:49:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/wheeladpre.php on line 55
+[16-May-2024 17:49:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/slipwini/public_html/wheeladpre.php on line 56
+[16-May-2024 17:49:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/wheeladpre.php on line 55
+[16-May-2024 17:49:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/slipwini/public_html/wheeladpre.php on line 56
+[16-May-2024 17:49:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/wheeladpre.php on line 55
+[16-May-2024 17:49:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/slipwini/public_html/wheeladpre.php on line 56
+[16-May-2024 17:49:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/wheeladpre.php on line 55
+[16-May-2024 17:49:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/slipwini/public_html/wheeladpre.php on line 56
+[16-May-2024 18:01:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[16-May-2024 18:03:03 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[16-May-2024 18:03:31 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[16-May-2024 18:19:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 04:16:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 04:16:44 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 04:17:01 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 04:20:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[17-May-2024 04:22:09 UTC] PHP Notice:  Undefined variable: dataRow in /home/slipwini/public_html/inviterec.php on line 277
+[17-May-2024 04:22:24 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/notice.php on line 47
+[17-May-2024 04:22:30 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 08:29:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 08:32:35 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 09:58:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 09:58:22 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 09:58:27 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 09:58:54 UTC] PHP Notice:  Undefined offset: 46 in /home/slipwini/public_html/adduser.php on line 34
+[17-May-2024 10:03:10 UTC] PHP Notice:  Undefined offset: 46 in /home/slipwini/public_html/adduser.php on line 34
+[17-May-2024 10:06:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[17-May-2024 10:09:36 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:13:56 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:17:25 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:17:49 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:19:08 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:20:14 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:20:32 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:20:41 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:21:35 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:21:46 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:22:12 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:24:41 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:24:57 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:25:38 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:26:26 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:28:43 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:30:12 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:31:18 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:31:31 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:32:35 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:35:11 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:35:53 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:36:02 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:36:29 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:37:00 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:39:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[17-May-2024 10:43:53 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:44:33 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:50:44 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 10:51:22 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 11:42:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 11:42:52 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 11:56:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 11:56:16 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 11:57:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 12:59:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 13:00:14 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 13:45:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 14:18:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 14:22:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 14:39:40 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 14:41:00 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 14:42:34 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 14:42:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 14:42:55 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 14:43:41 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 14:43:52 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 14:46:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 14:47:02 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 14:48:36 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 14:48:48 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 15:58:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 15:58:15 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 16:10:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 16:10:23 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 16:27:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 16:27:55 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 16:44:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 16:44:38 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 17:25:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 17:25:48 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[17-May-2024 17:41:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[17-May-2024 17:41:36 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 04:17:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 04:17:54 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 10:00:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 10:00:28 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 10:12:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 10:14:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 10:14:33 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 10:14:39 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 10:16:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 10:16:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[18-May-2024 10:25:48 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 10:35:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 10:36:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 10:38:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 10:39:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[18-May-2024 10:40:58 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 10:49:24 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 10:57:51 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:02:49 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:04:41 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:09:39 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:11:30 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:11:42 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:12:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 11:16:04 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/slipwini/public_html/config.php on line 12
+[18-May-2024 11:16:04 UTC] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/slipwini/public_html/config.php on line 16
+[18-May-2024 11:16:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/slipwini/public_html/wdecline.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/slipwini/public_html/wdecline.php on line 22
+[18-May-2024 11:17:12 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:19:31 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:21:38 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:22:48 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:23:40 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:24:52 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:27:55 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:31:59 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:33:38 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 11:34:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[18-May-2024 11:43:41 UTC] PHP Notice:  Undefined variable: dataRow in /home/slipwini/public_html/inviterec.php on line 277
+[18-May-2024 12:00:36 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 12:06:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 12:08:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 12:09:15 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 12:20:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 12:26:18 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 12:29:13 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 12:29:53 UTC] PHP Notice:  Undefined variable: dataRow in /home/slipwini/public_html/inviterec.php on line 277
+[18-May-2024 12:30:05 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 12:30:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 12:31:04 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 12:32:00 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 12:33:51 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 12:34:42 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 12:35:45 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 12:39:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 12:43:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 12:43:53 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 12:48:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 12:53:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 12:55:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 12:55:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[18-May-2024 12:58:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 12:58:27 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:01:38 UTC] PHP Notice:  Undefined variable: dataRow in /home/slipwini/public_html/inviterec.php on line 277
+[18-May-2024 13:01:58 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:08:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 13:08:31 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:08:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 13:08:45 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:08:56 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:09:04 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:09:49 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:10:14 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:10:28 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:10:29 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:10:40 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:10:56 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:12:09 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:12:47 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:19:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 13:19:50 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:22:27 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:23:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 13:24:01 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:24:09 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:24:14 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:24:28 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:27:15 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:27:17 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:29:18 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:31:56 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:32:01 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:32:51 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:33:02 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:35:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 13:35:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[18-May-2024 13:36:50 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:37:02 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:38:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 13:43:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 13:43:11 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:44:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 13:45:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 13:45:30 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:47:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 13:47:40 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:56:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 13:56:42 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 13:58:08 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:00:32 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:03:26 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:04:45 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:05:26 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:06:35 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:07:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 14:07:45 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:08:15 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:08:52 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:09:18 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:09:45 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:10:20 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:12:47 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:14:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[18-May-2024 14:20:31 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:20:37 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:26:00 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:34:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 14:36:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 14:37:47 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:39:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 14:46:23 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:47:08 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:47:33 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:50:11 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:50:50 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:51:31 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:51:53 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:53:26 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:54:55 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:56:48 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:57:14 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:57:59 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 14:59:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 15:00:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 15:01:02 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 15:06:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 15:06:29 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 15:08:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 15:08:38 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 15:14:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 15:14:15 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 15:28:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 15:28:08 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 15:45:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 15:45:05 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 15:50:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 15:50:40 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 15:59:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 15:59:25 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 15:59:37 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 16:19:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 16:19:31 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[18-May-2024 16:48:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[18-May-2024 16:48:46 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[19-May-2024 01:07:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[19-May-2024 01:07:17 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[19-May-2024 03:48:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[19-May-2024 03:48:45 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[19-May-2024 04:51:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[19-May-2024 04:51:49 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[19-May-2024 06:06:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[19-May-2024 06:06:51 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[19-May-2024 06:08:33 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[19-May-2024 06:09:38 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[19-May-2024 06:10:17 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[19-May-2024 06:10:37 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[19-May-2024 06:11:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[19-May-2024 06:13:16 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[19-May-2024 06:14:08 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[19-May-2024 06:21:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[19-May-2024 06:21:11 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[19-May-2024 06:40:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[19-May-2024 06:40:12 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[19-May-2024 06:41:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[19-May-2024 06:55:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[19-May-2024 06:55:31 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[19-May-2024 10:39:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[19-May-2024 11:43:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[19-May-2024 13:26:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[19-May-2024 13:26:44 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[21-May-2024 05:47:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[21-May-2024 05:47:44 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[21-May-2024 05:48:01 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[21-May-2024 12:14:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[23-May-2024 10:59:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[23-May-2024 10:59:16 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[25-May-2024 14:37:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[25-May-2024 14:59:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[25-May-2024 14:59:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/slipwini/public_html/adminverify.php on line 50
+[25-May-2024 15:01:08 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[25-May-2024 15:01:10 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[25-May-2024 15:01:12 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[25-May-2024 15:01:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[25-May-2024 15:01:24 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[25-May-2024 15:01:31 UTC] PHP Notice:  Undefined variable: dataRow in /home/slipwini/public_html/inviterec.php on line 277
+[25-May-2024 15:02:00 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/notice.php on line 47
+[25-May-2024 15:02:05 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/slipwini/public_html/upi.php on line 47
+[25-May-2024 15:03:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/slipwini/public_html/accept.php on line 22
+[16-Aug-2024 17:21:24 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/upi.php on line 47
+[16-Aug-2024 17:21:39 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/upi.php on line 47
+[16-Aug-2024 17:21:50 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/updateotp.php on line 14
+[16-Aug-2024 17:21:50 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/updateotp.php on line 15
+[16-Aug-2024 17:25:57 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/upi.php on line 47
+[16-Aug-2024 17:26:02 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/upi.php on line 47
+[16-Aug-2024 17:26:06 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/upi.php on line 47
+[17-Aug-2024 04:17:38 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/updateotp.php on line 14
+[17-Aug-2024 04:17:38 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/updateotp.php on line 15
+[17-Aug-2024 04:17:57 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/updateotp.php on line 14
+[17-Aug-2024 04:17:57 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/updateotp.php on line 15
+[17-Aug-2024 04:17:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lukk713/public_html/updateotp.php:49) in /home/lukk713/public_html/updateotp.php on line 50
+[17-Aug-2024 04:18:02 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/updateotp.php on line 14
+[17-Aug-2024 04:18:02 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/updateotp.php on line 15
+[17-Aug-2024 04:18:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lukk713/public_html/updateotp.php:49) in /home/lukk713/public_html/updateotp.php on line 50
+[17-Aug-2024 15:03:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lukk713/public_html/reward.php:28) in /home/lukk713/public_html/reward.php on line 29
+[17-Aug-2024 16:18:59 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/notice.php on line 47
+[20-Aug-2024 17:07:07 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/upi.php on line 47
+[21-Aug-2024 09:45:07 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/notice.php on line 47
+[21-Aug-2024 09:45:09 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/lukk713/public_html/notice.php on line 47
+[21-Aug-2024 11:15:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lukk713/public_html/avipre1.php:22) in /home/lukk713/public_html/avipre1.php on line 23
